@@ -1,3 +1,3 @@
-module github.com/achetronic/tapogo
+module github.com/kabukky/tapogo
 
 go 1.19
